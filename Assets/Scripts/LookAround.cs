@@ -3,7 +3,7 @@ using UnityEngine.InputSystem;
 
 public class LookAround : MonoBehaviour
 {
-    public float speed = 3f;
+    public float speed = 30f;
     private Vector2 lastMousePosition;
     private bool isDragging = false;
 
