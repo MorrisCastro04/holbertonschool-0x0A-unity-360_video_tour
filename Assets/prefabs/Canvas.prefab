@@ -117,6 +117,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   OldPlace: {fileID: 0}
   Camara: {fileID: 0}
+  anim: {fileID: 0}
 --- !u!1 &4793600398735711478
 GameObject:
   m_ObjectHideFlags: 0
